@@ -1,3 +1,15 @@
 :root {
   --bar-height: 72px;
   --color-primary: #7e2cd3;
+  --color-primary-light: #9b2ed1;
+}
+
+body {
+ margin: 0;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.header {
+ height: 100vh;
+ background: linear-gradient(to bottom right, var(--color-primary), var(--color-primary-light));
+}
