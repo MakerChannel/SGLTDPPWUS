@@ -13,7 +13,7 @@ body {
  height: 100vh;
  background: linear-gradient(to bottom right, var(--color-primary), var(--color-primary-light));
  display: flex;
- align-items: left;
+ align-items: center;
   padding-top: var(--bar-height);
   box-sizing: border-box;
 }
@@ -33,3 +33,31 @@ body {
   color: #ffffff;
   background: rgba(0, 0, 0, 0.1); 
   border-radius: 16px;
+}
+
+.call-to-action__title {
+ margin-top: 0;
+}
+
+.call-to-action__description {
+ font-weight: 500;
+  font-size: 1.1em;
+}
+
+.call-to-action__button {
+ background: #ffffff;
+  outline: none;
+  font: bold 1.1em 'Quicksand', sans-serif;
+  color: transparent);
+  border: 1px solid #ffffff;
+  border-radius: 4px;
+  padding: 10px 16px;
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s;
+}
+
+.call-to-action__button:hover {
+  background: transparent;
+  color: #ffffff;
+}
+}
