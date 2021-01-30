@@ -71,3 +71,14 @@ body {
   bok-shadow: 0 0 10px rgba(0, 0, 0, 1.15);
   transition: background 0.15s;
 }
+
+.bar--bg {
+ background: var(--color-primary);
+}
+
+.bar__content {
+ height: 100%;
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+}
