@@ -60,4 +60,13 @@ body {
   background: transparent;
   color: #ffffff;
 }
+
+.bar {
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: var(--bar__height);
+  bok-shadow: 0 0 10px rgba(0, 0, 0, 0.15
 }
