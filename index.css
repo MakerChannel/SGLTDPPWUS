@@ -68,5 +68,6 @@ body {
   left: 0;
   width: 100%;
   height: var(--bar__height);
-  bok-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+  bok-shadow: 0 0 10px rgba(0, 0, 0, 1.15);
+  transition: background 0.15s;
 }
