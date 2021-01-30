@@ -48,7 +48,7 @@ body {
  background: #ffffff;
   outline: none;
   font: bold 1.1em 'Quicksand', sans-serif;
-  color: transparent);
+  color: var(--primary-color);
   border: 1px solid #ffffff;
   border-radius: 4px;
   padding: 10px 16px;
