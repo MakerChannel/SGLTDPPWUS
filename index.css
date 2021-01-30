@@ -82,3 +82,7 @@ body {
  justify-content: space-between;
  align-items: center;
 }
+
+.bar__logo {
+height: 100%; 
+}
