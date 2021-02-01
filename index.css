@@ -86,3 +86,13 @@ body {
 .bar__logo {
 height: 100%; 
 }
+
+.bar__nav-toggle {
+ cursor: pointer; 
+}
+
+.bar__nav-toggle > i {
+  color: #ffffff;
+  font-size: 2em;
+  
+}
