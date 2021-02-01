@@ -94,11 +94,14 @@ height: 100%;
 .bar__nav-toggle > i {
   color: #ffffff;
   font-size: 2em;
-  
+  }
+
+#inpNavToggle:checked ~ .nav {
+  display: flex;
 }
 
 .nav {
- display: flex;
+ display: none;
  flex-direction: column;
  position: fixed;
  top: var(--bar-height);
