@@ -117,3 +117,7 @@ height: 100%;
   color: #ffffff;
   border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
+
+.nav__link:hover {
+   opacity: 0.8;
+}
