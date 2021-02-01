@@ -96,6 +96,10 @@ height: 100%;
   font-size: 2em;
   }
 
+#inpNavToggle {
+  display: none; 
+}
+
 #inpNavToggle:checked ~ .nav {
   display: flex;
 }
