@@ -4,6 +4,7 @@ width: 200px;
 transition: width 1s, height 1s;
 border-radius: 15px;
 verticle-align: bottom;
+  margin: 100px;
 }
 
 .button:hover {
