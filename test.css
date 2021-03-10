@@ -1,10 +1,10 @@
 .button {
-height: 100px;
-width: 100px;
+height: 200px;
+width: 200px;
 transition: width 1s, height 1s;
 }
 
 .button:hover {
-height: 150px;
-width: 150px;
+height: 250px;
+width: 250px;
 }
