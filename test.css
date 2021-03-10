@@ -1,6 +1,7 @@
 .button {
 height: 100px;
 width: 100px;
+transition: width 1s;
 }
 
 .button:hover {
