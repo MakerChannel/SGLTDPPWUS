@@ -1,5 +1,5 @@
 .button {
-height: 300px;
+height: 250px;
 width: 200px;
 transition: width 1s, height 1s;
 border-radius: 20px;
@@ -8,6 +8,6 @@ margin: 100px;
 }
 
 .button:hover {
-height: 350px;
+height: 300px;
 width: 250px;
 }
