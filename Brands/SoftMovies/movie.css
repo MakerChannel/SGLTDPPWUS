@@ -9,6 +9,11 @@
  color: white;
 }
 
+.description_holder {
+width: 150px;
+height: 150px;
+}
+
 body {
  background-color: black;
 }
