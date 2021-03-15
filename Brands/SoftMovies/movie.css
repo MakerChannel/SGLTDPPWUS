@@ -5,10 +5,11 @@
 }
 
 .page_description {
- text-align: center;
  color: white;
  width: 150px;
  height: 150px;
+ text-align: center;
+ margin-left: 450px;
 }
 
 body {
