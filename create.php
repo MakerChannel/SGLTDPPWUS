@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <link type="text/css" rel="stylesheet" href="/create.css">
-      <link rel="stylesheet" type="text/css" href="/index.css"/>
+     <link rel="stylesheet" type="text/css" href="/index.css">
   </head>
   <body>
    <div class="bar">
