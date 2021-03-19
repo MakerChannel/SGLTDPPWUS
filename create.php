@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
-    <meta charset="UTF-8">
+    <meta charset="utf-8">
     <link type="text/css" rel="stylesheet" href="/create.css">
      <link rel="stylesheet" type="text/css" href="/index.css">
   </head>
