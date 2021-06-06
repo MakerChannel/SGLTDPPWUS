@@ -21,7 +21,6 @@ body {
 background-color: #f80d07;
 border-radius: 15px;
 text-alignment: center;
-margin-left: 425px;
-margin-right: 425px;
-margin-top: 500;
+font-decoration: none;
+color: white;
 }
