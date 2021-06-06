@@ -1,5 +1,7 @@
 body {
 	background-image:  url(https://raw.githubusercontent.com/MakerChannel/SGLTDPPWUS/main/background.jpg);
+	background-repeat: no-repeat;
+
 }
 
 .top_link {
